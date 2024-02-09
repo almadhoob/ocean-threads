@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="public/images/logo-2.png" alt="Logo" width=90%  height="auto" />
+  <img src="public/images/logo-home.png" alt="Logo" width=90%  height="auto" />
   <br />
   <h1><b>oceanThreads Project</b></h1>
   <h4>Ignite exciting threads with like-minded people</h4>
@@ -13,7 +13,6 @@
 
 - [📖 About the Project](#about-project)
   - [🌟 Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
   - [🛠 Tech Stack](#tech-stack)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -52,14 +51,6 @@ It is inspired by other knowledge markets such as stackoverflow.com, quora.com, 
 - Thread standalone viewing page with commenting functionality.
 - User dashboard that shows threads with update/delete ability.
 - Leaderboard page to rank users by the number of threads created.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Live Demo -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- The website is accessible from [this link](https://drab-cyan-bison-hose.cyclic.app/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,14 +99,13 @@ It is recommended to have the following software (or newer versions) to run the 
 - Node.js v20.5.0
 - MongoDB v6.0.8
 - Chrome v115.0.0
-- VS Code v1.80.1
 
 ### Download
 
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@git.generalassemb.ly:pirates-team/ocean-threads.git
+  git clone git@github.com:amstalks/ocean-threads.git
 ```
 
 ### Install
@@ -134,16 +124,16 @@ Touch an '.env' file and include the following keys: DATABASE_URL, GOOGLE_CLIENT
 
 ## 👥 Team Members <a name="members"></a>
 
-👤 **Ahmed Almadhoob** | [GitHub](https://git.generalassemb.ly/almadhoob/) - [LinkedIn](https://www.linkedin.com/in/almadhoob/)
-  - The navigator, a ***DevOps Engineer*** who deals with clean codebase initialisation, pull requests handling, testing and deployment. He also interacts with the terminal as a back-end developer on demand.
-
-👤 **Ali Haji** (El Capitán) | [GitHub](https://git.generalassemb.ly/ali-haji4/) - [LinkedIn](https://linkedin.com/in/ali--haji/)
+👤 **Ali Haji** (El Capitán) | [GitHub](https://github.com/Ali-Haji4/) - [LinkedIn](https://linkedin.com/in/ali--haji/)
   - The shipmaster, a ***Full-stack Engineer*** who manages everything on the watercraft starting from task assignment to implementation. He also utilises creative skills to wireframe maps before navigation.
 
-👤 **Hamad Alhibshi** | [GitHub](https://git.generalassemb.ly/hamadalhibshi/) - [LinkedIn](https://linkedin.com/in/halhibshi/)
+👤 **Ahmed Almadhoob** | [GitHub](https://github.com/amstalks/) - [LinkedIn](https://www.linkedin.com/in/almadhoob/)
+  - The navigator, a ***DevOps Engineer*** who deals with clean codebase initialisation, pull requests handling, testing and deployment. He also interacts with the terminal as a back-end developer on demand.
+
+👤 **Hamad Alhibshi** | [GitHub](https://github.com/hamadalhibshi/) - [LinkedIn](https://linkedin.com/in/halhibshi/)
   - The engineering officer, a pure ***Back-end Engineer*** who works 24/7 to add many lines of code for routes and controllers. He also deals with database schemas to make sure it runs smoothly with the engine.
 
-👤 **Rashid Althawadi** | [GitHub](https://git.generalassemb.ly/althawadi/) - [LinkedIn](https://linkedin.com/in/althawadi7/)
+👤 **Rashid Althawadi** | [GitHub](https://github.com/althawadi-01/) - [LinkedIn](https://linkedin.com/in/althawadi7/)
   - The communications officer, a pure ***Front-end Engineer*** who deals with designing webpages and adding styling sheets. As a multimedia specialist, he creates wonderful logos, images and video clips.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -162,7 +152,7 @@ Touch an '.env' file and include the following keys: DATABASE_URL, GOOGLE_CLIENT
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://git.generalassemb.ly/pirates-team/ocean-threads/issues/).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/amstalks/ocean-threads/issues/).
 
 To create a new branch each time:
 ```sh
