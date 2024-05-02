@@ -105,7 +105,7 @@ It is recommended to have the following software (or newer versions) to run the 
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:amstalks/ocean-threads.git
+  git clone git@github.com:almadhoob/ocean-threads.git
 ```
 
 ### Install
@@ -127,7 +127,7 @@ Touch an '.env' file and include the following keys: DATABASE_URL, GOOGLE_CLIENT
 👤 **Ali Haji** (El Capitán) | [GitHub](https://github.com/Ali-Haji4/) - [LinkedIn](https://linkedin.com/in/ali--haji/)
   - The shipmaster, a ***Full-stack Engineer*** who manages everything on the watercraft starting from task assignment to implementation. He also utilises creative skills to wireframe maps before navigation.
 
-👤 **Ahmed Almadhoob** | [GitHub](https://github.com/amstalks/) - [LinkedIn](https://www.linkedin.com/in/almadhoob/)
+👤 **Ahmed Almadhoob** | [GitHub](https://github.com/almadhoob/) - [LinkedIn](https://www.linkedin.com/in/almadhoob/)
   - The navigator, a ***DevOps Engineer*** who deals with clean codebase initialisation, pull requests handling, testing and deployment. He also interacts with the terminal as a back-end developer on demand.
 
 👤 **Hamad Alhibshi** | [GitHub](https://github.com/hamadalhibshi/) - [LinkedIn](https://linkedin.com/in/halhibshi/)
@@ -152,7 +152,7 @@ Touch an '.env' file and include the following keys: DATABASE_URL, GOOGLE_CLIENT
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/amstalks/ocean-threads/issues/).
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/almadhoob/ocean-threads/issues/).
 
 To create a new branch each time:
 ```sh
